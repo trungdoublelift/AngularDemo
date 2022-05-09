@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "demochatrt": {
+      "hosting": {
+        "DemoChatRT": [
+          "demochatrt"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "demochatrt"
+  }
+}
